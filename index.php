@@ -103,6 +103,7 @@
   </main>
    <br>
    <h1>To get started click Sign Up button which is above now!!</h1>
+   <p>Note : To Use Custom Domain Of Your Own From Any Third Party Registrar Kindly Change Your Nameservers To <code>ns1.acclaimhosting.ml</code> And <code>ns2.acclaimhosting.ml</code>.</p>
    <br>
    <br>
   <footer class="mt-auto text-white-50">
